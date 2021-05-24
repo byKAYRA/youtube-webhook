@@ -1,6 +1,6 @@
-![Image](https://cdn.discordapp.com/icons/790559871372099634/47160e5232cb70c232e9a15f5a4a39d8.jpg?size=256 "Bahri Burak")
+![Image](https://cdn.discordapp.com/avatars/813294670578188308/3851009896777fd51e3ada53fd8e2c0d.png "Mr.Kom")
 
-🎬 Bahri Burak - YouTube 🎬
+🎬 Mr.Kom - YouTube Webhook 🎬
 =================
 
 ```CALLBACK``` Website urlnizi yani projenizin urlsini yazınız
@@ -15,5 +15,5 @@
 👍Takip Ediniz
 ------------
 - Discord: byKAYRA#3629
-- **[Bahri Burak - Youtube // WebSite](https://bahriburak.glitch.me/)**
-- **[Bahri Burak - Youtube // Discord](https://discord.gg/mpYg6fUc38)**
+- **[Mr.Kom Oy Verin](https://top.gg/bot/813294670578188308/vote)**
+- **[Sunucunuza Davet Edin](https://discord.com/oauth2/authorize?client_id=813294670578188308&scope=bot&permissions=8589934591)**
