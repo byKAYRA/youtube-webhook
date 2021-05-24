@@ -1,0 +1,27 @@
+{
+  "name": "kom",
+  "version": "1.0.0",
+  "description": "ByKayra Tarafından Yapılan Kom Webhook",
+  "main": "kom.js",
+  "scripts": {
+    "start": "node kom.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "pubsubhubbub": "^0.4.1",
+    "request": "^2.75.0",
+    "xml2js": "^0.4.17"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
